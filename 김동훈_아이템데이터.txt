@@ -1,0 +1,10 @@
+// 아이템을 데이터로 표현하기
+
+// LABEL | ITEM NAME  | STAT NAME | STAT VALUE  | PRICE | 상위 아이템 |  아이템 설명             | 아이템 키워드 |   
+// TYPE  | string     | string    | double      | int   |  ???       |
+//  1    |  장화      | 이동 속도  | 25          | 300   | 6개        |      X                   | X           |
+//  2    | 신속의장화  |  이동 속도 | 55          | 1000  | X         | 둔화 효과가 25% 감소합니다. | 날쌘 발걸음
+
+
+// LABEL | 이름       |
+        
