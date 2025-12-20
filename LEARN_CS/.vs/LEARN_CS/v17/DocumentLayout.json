@@ -3,12 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{74CD53BF-0CCB-4D08-8C45-B9B96F49198B}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CD53BF-0CCB-4D08-8C45-B9B96F49198B}|LEARN_CS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B08892F-460E-4C73-881A-765A133E4E4B}|..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj|c:\\users\\administrator\\desktop\\25csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74CD53BF-0CCB-4D08-8C45-B9B96F49198B}|LEARN_CS.csproj|c:\\users\\administrator\\desktop\\25csharp\\learn_cs\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74CD53BF-0CCB-4D08-8C45-B9B96F49198B}|LEARN_CS.csproj|solutionrelative:item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B08892F-460E-4C73-881A-765A133E4E4B}|..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj|c:\\users\\administrator\\desktop\\25csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B08892F-460E-4C73-881A-765A133E4E4B}|..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8.csproj|c:\\users\\administrator\\desktop\\25csharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,27 +44,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\Item.cs",
-              "RelativeDocumentMoniker": "Item.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\Item.cs",
-              "RelativeToolTip": "Item.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Title": "Jelly.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25CSharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Jelly.cs",
+              "RelativeDocumentMoniker": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Jelly.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25CSharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Jelly.cs",
+              "RelativeToolTip": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Jelly.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T07:06:12.924Z",
+              "WhenOpened": "2025-12-20T07:34:55.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jelly.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25CSharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.json",
+              "RelativeDocumentMoniker": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25CSharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.json",
+              "RelativeToolTip": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\jelly.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-20T07:34:27.011Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25CSharp\\LEARN_CS\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA3wBgAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\25CSharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\25CSharp\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Program.cs",
+              "RelativeToolTip": "..\\\uB2EC\uB9AC\uAE30\uD504\uB85C\uC81D\uD2B8\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T06:20:20.604Z",
+              "WhenOpened": "2025-12-20T07:19:40.744Z",
               "EditorCaption": ""
             }
           ]

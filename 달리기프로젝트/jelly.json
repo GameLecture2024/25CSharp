@@ -1,0 +1,17 @@
+[
+  {
+    "Speed": 1,
+    "Name": "speedy",
+    "Score ": 500
+  },
+  {
+    "Speed": 3,
+    "Name": "normal",
+    "Score ": 300
+  },
+  {
+    "Speed": 5,
+    "Name": "slow",
+    "Score ": 100
+  }
+]
