@@ -1,0 +1,17 @@
+[
+  {
+    "Speed": 4,
+    "Name": "#",
+    "posY ": 5
+  },
+  {
+    "Speed": 6,
+    "Name": "$",
+    "posY ": 6
+  },
+  {
+    "Speed": 2,
+    "Name": "%",
+    "posY ": 7
+  }
+]

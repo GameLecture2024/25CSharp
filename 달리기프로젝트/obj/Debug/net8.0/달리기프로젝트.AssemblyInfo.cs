@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("달리기프로젝트")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72cd96472fa092b8e6c86e04dcde5af0bea426d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41454d2522ea0cb23512a0c7409dc1782aefccd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("달리기프로젝트")]
 [assembly: System.Reflection.AssemblyTitleAttribute("달리기프로젝트")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
